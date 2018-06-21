@@ -1,0 +1,4 @@
+rootProject.name = 'ueye'
+include 'ueye-base'
+include 'ueye-common'
+
